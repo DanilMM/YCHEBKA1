@@ -1,0 +1,88 @@
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\YCHEBKA1.exe.config
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\YCHEBKA1.exe
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\YCHEBKA1.pdb
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Npgsql.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Buffers.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Memory.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Json.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.ValueTuple.dll
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\Npgsql.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Buffers.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Memory.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Json.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\bin\Debug\System.ValueTuple.xml
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.Form1.resources
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.Form2.resources
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.Properties.Resources.resources
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.GenerateResource.cache
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.Up2Date
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.exe
+C:\Users\Honor\source\repos\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.pdb
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\YCHEBKA1.exe.config
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\YCHEBKA1.exe
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\YCHEBKA1.pdb
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.HashCode.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Npgsql.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Buffers.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Collections.Immutable.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Memory.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Numerics.Vectors.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Encodings.Web.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Json.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Channels.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.ValueTuple.dll
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Bcl.HashCode.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\Npgsql.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Buffers.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Collections.Immutable.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Memory.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Numerics.Vectors.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Encodings.Web.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Text.Json.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Channels.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\bin\Debug\System.ValueTuple.xml
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.AssemblyReference.cache
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.Form1.resources
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.Form2.resources
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.Properties.Resources.resources
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.GenerateResource.cache
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.CoreCompileInputs.cache
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.csproj.Up2Date
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.exe
+H:\3 курс 1 семестр\УП\Рыбнцев ПР1 ПО-31 УП\YCHEBKA1\YCHEBKA1\obj\Debug\YCHEBKA1.pdb
